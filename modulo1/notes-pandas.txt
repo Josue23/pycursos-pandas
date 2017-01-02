@@ -4,7 +4,7 @@ sudo apt-get install python3.5-dev
 # install virtualenv
 sudo apt-get install python-virtualenv 
 
-# create virtualenv with python3.5
+# create virtual environment with python3.5
 virtualenv venv -p python3.5
 
 # ativa a venv
@@ -15,6 +15,7 @@ pip install jupyter
 
 # usando o jupyter notebook
 jupyter notebook
+jupyter-notebook &
 
 
 
