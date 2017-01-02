@@ -18,4 +18,11 @@ jupyter notebook
 jupyter-notebook &
 
 
+======================================================
+======================================================
+aula8
+
+jogo advinha-01
+http://localhost:8888/notebooks/advinha-01.ipynb
+
 
